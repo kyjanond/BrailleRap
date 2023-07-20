@@ -16,3 +16,6 @@ docs/_build/gettext/.doctrees/buildembossingtool.doctree
 docs/_build/gettext/.doctrees/buildembossingtool.doctree
 docs/_build/gettext/.doctrees/bom.doctree
 docs/_build/gettext/.doctrees/assemblage.doctree
+
+.pio/build
+.vscode
