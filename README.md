@@ -1,20 +1,12 @@
 
-<figure>
-<img src="https://github.com/braillerap/BrailleRap/blob/master/docs/IMG/github_logo.png" alt="BrailleRAP image" style="width:50% align:center">
-</figure>
+![BrailleRap Bhutan](docs/IMG/braillerap-bhutan.png)
 
-# BrailleRap 6.5
+# BrailleRap 6.5 Bhutan Iteration
 
-Embosseuse Braille Open Source DIY
+- This project was created as a part of the team effort of the **Assistive Learning Units (ALU)** group from the CST Fablab in Phuentsholing, Bhutan for the Fab Bhutan Challenge 2023 - Designing Resilient Futures. 
+- The project was based on a slightly modified BrailleRap project: https://github.com/braillerap/BrailleRap
+- A custom UI for the Bhutan iteration: https://github.com/kyjanond/BrailleRapUI
 
-[![Documentation Status](https://readthedocs.org/projects/braillerap/badge/?version=latest&style=plastic)](https://braillerap.readthedocs.io/fr/latest/?badge=latest)
-
-La documentation complete est disponible ici http://braillerap.readthedocs.io/fr/latest/index.html
-
-==========================================================================
-
-DIY Open Source Braille embosser
-
-[![Documentation Status](https://readthedocs.org/projects/braillerap-en/badge/?version=latest&style=plastic)](https://braillerap-en.readthedocs.io/en/latest/index.html)
-
+### Documentation of the original project
 the full documentation is available here https://braillerap-en.readthedocs.io/en/latest/index.html
+[![Documentation Status](https://readthedocs.org/projects/braillerap-en/badge/?version=latest&style=plastic)](https://braillerap-en.readthedocs.io/en/latest/index.html)
